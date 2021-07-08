@@ -1,0 +1,14 @@
+h3{
+    font-family: sans-serif;
+}
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.grid{
+display: flex;
+flex-wrap: wrap;
+height: 300px;
+width: 400px;
+}
